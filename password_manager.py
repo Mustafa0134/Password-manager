@@ -11,5 +11,5 @@ while True:
     elif mode == "add":
         pass
     else:
-        print("Invalid mode");
+        print("Invalid mode")
         continue
